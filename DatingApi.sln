@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Api", "DatingApp.Api\DatingApp.Api.csproj", "{6085519F-B81A-4C54-AD0E-B20129E2087D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.Api.Test", "DatingApp.Api.Test\DatingApp.Api.Test.csproj", "{C59A6C20-8461-43EC-BB3B-CED38FA18672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|x64.Build.0 = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Debug|x86.Build.0 = Debug|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|x64.ActiveCfg = Release|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|x64.Build.0 = Release|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|x86.ActiveCfg = Release|Any CPU
+		{6085519F-B81A-4C54-AD0E-B20129E2087D}.Release|x86.Build.0 = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|x64.Build.0 = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Debug|x86.Build.0 = Debug|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|x64.ActiveCfg = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|x64.Build.0 = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|x86.ActiveCfg = Release|Any CPU
+		{C59A6C20-8461-43EC-BB3B-CED38FA18672}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
