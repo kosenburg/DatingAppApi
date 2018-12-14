@@ -6,4 +6,5 @@ install:
 - dotnet restore
 script:
 - dotnet build
+- dotnet test Dating.Api.Test
 os: linux
