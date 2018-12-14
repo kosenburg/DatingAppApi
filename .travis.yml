@@ -1,5 +1,5 @@
 language: csharp
-solution: WavLength.Api.sln
+solution: DatingApi.sln
 mono: none
 dotnet: 2.1.300
 install:
